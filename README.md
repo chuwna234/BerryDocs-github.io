@@ -4,5 +4,5 @@
 This is where I will Keep all the 
 ## Project Features
 ~Built directly on Github 💻
-~East to read formatting 🌸
+~Easy to read formatting 🌸
 ~Hosted live using Github Pages🚀
